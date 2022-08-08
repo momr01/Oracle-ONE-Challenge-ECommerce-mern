@@ -22,21 +22,21 @@ Esta nueva versión del proyecto construido enteramente con Javascript, HTML y C
 * Funcionalidad del menú de la sección anterior al footer.
 * Carrito de compras.
 
-## Despliegue Netlify: []()
+## Despliegue Netlify: [https://jolly-sunburst-bc8302.netlify.app/](https://jolly-sunburst-bc8302.netlify.app/)
 
 ## Imágenes del proyecto
 
-![Gral1]()
+![Gral1](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-mern/blob/main/public/assets/proyecto/index.PNG)
 * * *
-![Gral2]()
+![Gral2](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-mern/blob/main/public/assets/proyecto/contacto.PNG)
 * * *
-![Gral3]()
+![Gral3](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-mern/blob/main/public/assets/proyecto/search.PNG)
 * * *
-![Gral4]()
+![Gral4](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-mern/blob/main/public/assets/proyecto/login.PNG)
 * * *
-![Gral5]()
+![Gral5](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-mern/blob/main/public/assets/proyecto/gestion.PNG)
 * * *
-![Gral6]()
+![Gral6](https://github.com/momr01/Oracle-ONE-Challenge-ECommerce-mern/blob/main/public/assets/proyecto/cliente.PNG)
 
 
 ## Contacto
